@@ -15,4 +15,4 @@
 - dirsearch [link](https://github.com/maurosoria/dirsearch)
 - dirmap [link](https://github.com/H4ckForJob/dirmap)
 - antSword [link](https://github.com/AntSwordProject/AntSword)
--- AntSword-Loader[link](https://github.com/AntSwordProject/AntSword-Loader)
+- AntSword-Loader[link](https://github.com/AntSwordProject/AntSword-Loader)
