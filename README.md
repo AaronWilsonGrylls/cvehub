@@ -12,7 +12,7 @@
 # tools
 在tools文件夹下会存放一些开源的脚本文件/工具, 并在以下公布开源地址.
 
-- dirsearch 扫描脚本 [link](https://github.com/maurosoria/dirsearch)
-- dirmap 扫描脚本 [link](https://github.com/H4ckForJob/dirmap)
-- antSword 蚁剑[link](https://github.com/AntSwordProject/AntSword)
-- AntSword-Loader 蚁剑加载器 [link](https://github.com/AntSwordProject/AntSword-Loader)
+- dirsearch 扫描脚本-[link](https://github.com/maurosoria/dirsearch)
+- dirmap 扫描脚本-[link](https://github.com/H4ckForJob/dirmap)
+- antSword 蚁剑-[link](https://github.com/AntSwordProject/AntSword)
+- AntSword-Loader 蚁剑加载器-[link](https://github.com/AntSwordProject/AntSword-Loader)
