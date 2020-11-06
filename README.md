@@ -9,6 +9,8 @@
 
 # cve-Windows 
 - CVE-2020-1472 跨域漏洞利用 [here](https://github.com/dirkjanm/CVE-2020-1472)
+- CVE-2020-0796 微软SMBv3 Client/Server远程代码执行漏洞 [here](https://github.com/AaronWilsonGrylls/CVE-2020-0796-POC)
+- CVE-2019-0708 CVE-2019-0708——RDP漏洞利用 [here](https://github.com/AaronWilsonGrylls/CVE-2019-0708-POC)
 # tools
 在tools文件夹下会存放一些开源的脚本文件/工具, 并在以下公布开源地址.
 
